@@ -13,6 +13,7 @@ layout:
 ---
 
 # Installing
+!INCLUDE "file.html"
 
 {% hint style="warning" %}
 Upon installing Dream SDK, note that HTTP Services will be enabled making the experience vulnerable to security risks.
