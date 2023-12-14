@@ -1,6 +1,6 @@
 [package]
 name = "dado014/dream-sdk"
-desscription = "A framework centered around user-customized experiences through user targeting."
+description = "A framework centered around user-customized experiences through user targeting."
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
