@@ -1,0 +1,7 @@
+{
+  "name": "DreamSDK",
+  "id": "Dream-SDK",
+  "description": "A framework centered around user-customized experiences through user targeting.",
+  "version": "1.0",
+  "src": "src"
+}
