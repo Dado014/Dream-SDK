@@ -38,7 +38,7 @@ To use Wally, run the following command:
 </strong></code></pre>
 {% endtab %}
 
-{% tab title="Github directory" %}
+{% tab title="📦 Github Directory" %}
 {% embed url="https://github.com/dado014/dream-sdk/tree/Main/src" %}
 {% endtab %}
 {% endtabs %}
