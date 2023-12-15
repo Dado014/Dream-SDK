@@ -28,25 +28,20 @@ Open the command bar and run the code below ↓
 
 To use Wally, run the following command:
 
-```bash
-wally install dream-sdk
-```
-
 
 
 ### with Git-based package installers
 
 {% tabs %}
 {% tab title="rBundle" %}
-```lua
-shared.rBundle.install('dado014/dream-sdk')
-```
+<pre class="language-lua"><code class="lang-lua"><strong>shared.rBundle.install('dado014/dream-sdk')
+</strong></code></pre>
+{% endtab %}
+
+{% tab title="Github directory" %}
+{% embed url="https://github.com/dado014/dream-sdk/tree/Main/src" %}
 {% endtab %}
 {% endtabs %}
-
-
-
-
 
 
 
