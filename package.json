@@ -1,1 +1,12 @@
+{
+  "name": "dream-sdk",
+  "version": "0.1.0",
+  "main": "back-end/index.js",
+  "scripts": {
+    "start": "node back-end/index.js",
+    "deploy": "npm i @vercel/kv && npm i -g vercel@latest"
+  },
+  "dependencies": {
+  }
+}
 
