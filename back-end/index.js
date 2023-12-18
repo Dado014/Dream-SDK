@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const PORT = 443
+const PORT = 3000
 
 const KV_URL = process.env.KV_URL
 const KV_REST_API_URL = process.env.KV_REST_API_URL
