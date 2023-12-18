@@ -8,5 +8,5 @@ const KV_REST_API_TOKEN = process.env.KV_REST_API_TOKEN
 const KV_REST_API_READ_ONLY_TOKEN = process.env.KV_REST_API_READ_ONLY_TOKEN
 
 app.get('/', function(req, res) {
-  res.send('it's working yay');
+  res.send('it\'s working yay');
 });
